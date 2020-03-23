@@ -1,5 +1,9 @@
 # Interactive Statistics Notebooks
 
+## TEMPLATE
+
+Colab [link](https://colab.research.google.com/drive/1DOAeLRqRIHG6DG1N1s52iBgDc-jmPnh1) to the basic template with sections to fill and a tiny code sample
+
 ## What?
 
 As a part of an Advanced Statistics Course at Innopolis University students suggested 
